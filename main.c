@@ -2,7 +2,7 @@
 #include °∞myProject.h°±
 int main(void)
 {
-	printf(°∞Chief name is[∆¿¿Â¿Ã∏ß]\n°±);
+	printf(°∞Chief name is[Uracia]\n°±);
 	printMyName1();
 	printMyName2();
 	printMyName3();
